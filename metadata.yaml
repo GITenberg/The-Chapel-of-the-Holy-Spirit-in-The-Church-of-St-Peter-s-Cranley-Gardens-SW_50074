@@ -1,10 +1,16 @@
 _repo: The-Chapel-of-the-Holy-Spirit-in-The-Church-of-St-Peter-s-Cranley-Gardens-SW_50074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Morris, Percy C.
     gutenberg_agent_id: '45693'
     url: http://www.gutenberg.org/2009/agents/45693
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50074#The-Chapel-of-the-Holy-Spirit-in-The-Church-of-St-Peter-s-Cranley-Gardens-SW
 gutenberg_issued: '2015-09-29'
 gutenberg_type: Text
 identifiers:
