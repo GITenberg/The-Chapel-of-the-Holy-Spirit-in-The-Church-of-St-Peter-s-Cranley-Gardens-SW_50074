@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Chapel of the Holy Spirit in The Church of St. Peter's, Cranley Gardens,
   S.W.
 url: http://www.gutenberg.org/ebooks/50074
